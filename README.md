@@ -9,6 +9,8 @@ Thanks For Checking Me Out And Have A Good Day :)
 
 ### Some Good Quotes
 
+[Reddit Thread](https://www.reddit.com/r/ProgrammerHumor/comments/108auwz/guys_i_want_to_put_a_funny_programming_quote_on/)
+
 > "Programming is the art of adding bugs to an empty text file"  
 > \- [u/david-delassus](https://reddit.com/u/david-delassus)
 
