@@ -1,6 +1,6 @@
 # Hello!
 
-![badge](https://img.shields.io/github/last-commit/J-The-Fox/J-The-Fox?color=ff9500&style=flat-square)
+![badge](https://img.shields.io/github/last-commit/J-The-Fox/J-The-Fox?color=ffa000&label=Latest%20Commit&logo=Furry%20Network&logoColor=ffa000&style=flat-square)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=J-The-Fox&repo=J-The-Fox&show_icons=true&theme=great-gatsby)](https://github.com/J-The-Fox/Game-Dev-Club)
 
