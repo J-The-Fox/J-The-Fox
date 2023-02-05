@@ -1,5 +1,7 @@
 # Hello!
 
+![badge](https://img.shields.io/github/last-commit/J-The-Fox/J-The-Fox?color=ff9500&style=flat-square)
+
 Programming Captian And Electrical Captian Of FRC Team 5098! Go Stingrs!  
 Love To Program And Just Have Some Fun While I'm At It.  
 Not Perfect But I'm Learning
@@ -23,6 +25,8 @@ Thanks For Checking Me Out And Have A Good Day :)
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-The-Fox&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=J-The-Fox&repo=J-The-Fox&show_icons=true&theme=great-gatsby)](https://github.com/J-The-Fox/Game-Dev-Club)
 
 
 <!---
