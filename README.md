@@ -28,7 +28,7 @@ Not Perfect But I'm Learning
 - Rock / Gem Collecting
 - Existing
 - Sleeping
-- Robotics!
+- Robotics! (FRC Team 5098!)
 - Gaming (Every so often)
 - Sketching
 - Listening To Music
@@ -78,17 +78,17 @@ Not Perfect But I'm Learning
 
 - Nameless Warning - You're Worth It  
 - One Republic - Kids (Seeb Remix)  
-- WRLD & Keeosake - Wishful Thinking  
+- WRLD & Keepsake - Wishful Thinking  
 
 <img src="https://imgs.search.brave.com/bl1RwzvGMgjg8h8jyw2EB_2FucrN6dNE-iKCM-ulGX4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZ2VuaXVzLmNv/bS82MmE3MWI1MzU0/ZjdhZDFjNTQxZWEy/MzMyYjQ1MmY0Yy41/MTJ4NTEyeDEuanBn" width="100" height="100">
 
-- \+ Too Many More (^_^;)
+- \+ A lot More
 
 <img src="https://media.tenor.com/jhPdg9w2_fEAAAAM/fox-cute.gif">
 
-\- When No Music
+\- Me When No Music
 
-**Thanks For Checking Me Out And Have A Good Day :)**
+**Thanks For Checking My Profile Out And Have A Wonderful Day:)**
 
 **Happy Programming!!**
 
