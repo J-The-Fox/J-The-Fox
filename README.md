@@ -1,12 +1,22 @@
-# Hello!
+<p align="center">
+  <img align="center" src="https://media.tenor.com/T2SpoqtLFbQAAAAC/fox-cute.gif" width ="750" height="350" alt="image"/>
+  <h1 align="center">Hello!</h1>
+</p>
 
-![badge](https://komarev.com/ghpvc/?username=J-The-Fox&color=ffa000&label=Profile%20Visits&style=flat-square)
-![badge](https://img.shields.io/github/last-commit/J-The-Fox/J-The-Fox?color=ffa000&label=Latest%20Commit&logo=Furry%20Network&logoColor=ffa000&style=flat-square)
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=J-The-Fox&color=ffa000&label=Visits&style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/J-The-Fox/J-The-Fox?color=ffa000&label=Latest%20Commit&logo=Furry%20Network&logoColor=ffa000&style=flat-square" align="center"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-The-Fox&count_private=true&show_icons=true&title_color=ffa000&text_color=ffa000&icon_color=00ff32&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-The-Fox&title_color=ffa000&text_color=ffa000&icon_color=00ff32&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-The-Fox&count_private=true&title_color=ffa000&text_color=ffa000&bg_color=000000"/>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-The-Fox&title_color=ffa000&text_color=ffa000&icon_color=00ff32&bg_color=000000">
+</p>
 
 ## About Me!
-
 Programming Captian And Electrical Captian Of FRC Team 5098! Go Stingrs!  
 Love To Program And Just Have Some Fun While I'm At It.
 
@@ -22,8 +32,8 @@ Not Perfect But I'm Learning
 
 [![icons](https://skillicons.dev/icons?i=py,java,vscode)](https://skillicons.dev)
 
-- Gradening
-- Growing Plants
+- Gardening
+- Growing House Plants
 - Coin Collecting
 - Rock / Gem Collecting
 - Existing
