@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://media.tenor.com/T2SpoqtLFbQAAAAC/fox-cute.gif" width ="750" height="350" alt="image"/>
+  <img align="center" src="https://media.tenor.com/T2SpoqtLFbQAAAAC/fox-cute.gif" alt="image"/>
   <h1 align="center">Hello!</h1>
 </p>
 
@@ -57,48 +57,52 @@ Not Perfect But I'm Learning
 > Only Doing One Per Album  
 > I Have A Lot Of Music I Like (^_^;)
 
-- Coldplay - Higher Power  
-- Owl City - Metropolis  
+\- Coldplay - Higher Power  
+\- Owl City - Metropolis  
 
 <img src="https://imgs.search.brave.com/tEr5JRsrj2kMi0FGVoGuAfynmTjJmLusLZAcPE9RQpg/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Ux/LmV4cGxpY2l0LmJp/bmcubmV0L3RoP2lk/PU9JUC5XQVRERjVv/MFZoT2ZhUEwyMGN1/dGd3SGFIYSZwaWQ9/QXBp" width="100" height="100">
 
-- Owl City - Verge  
-- Galantis - You  
+\- Owl City - Verge  
+\- Galantis - You  
 
 <img src="https://imgs.search.brave.com/4TPHm4Q8N85S0wnzEZsk9a9BcHTsEpaetvprt9CntMA/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/ZXcwOEN4RG5BVURI/ZmtXdGgwMXJBSGFI/YSZwaWQ9QXBp" width="100" height="100">
 
-- Galantis - Satisfied  
-- Sub.Sound - Bright
+\- Galantis - Satisfied  
+\- Sub.Sound - Bright
 
 <img src="https://imgs.search.brave.com/arC5-X9jfZQSzNKQJR_CYJw1SDqOXF2BLEGyTgDeeT4/rs:fit:500:500:1/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLTAwMDM4/Njg2MTAwNy01d3Uz/M2EtdDUwMHg1MDAu/anBn" width="100" height="100">
 
-- Black Eyed Peas - I Gotta Feeling  
+\- Black Eyed Peas - I Gotta Feeling  
 
 <img src="https://imgs.search.brave.com/DAwPTaEAi0hj4E2krUXXvLChxlbncC5874YsWFFKMP8/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5r/OEhvUG1KQlg1MHFx/OVJCd2RRQTNBSGFI/YSZwaWQ9QXBp" width="100" height="100"> 
 
-- David Guetta Feat. Chris Brown & Lil Wayne - I Can Only Imagine  
-- Tritonal and HALIENE - Losing My Mind  
-- Tritonal - Never Be The Same  
+\- David Guetta Feat. Chris Brown & Lil Wayne - I Can Only Imagine  
+\- Tritonal and HALIENE - Losing My Mind  
+\- Tritonal - Never Be The Same  
 
 <img src="https://imgs.search.brave.com/X34SwZqFapqW3f3pS0ffWzCiiUNNMtBcZXSay1ny6Zw/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZ2VuaXVzLmNv/bS8wM2ZjMWIwMWY2/MzJmMzVmNjQ2ZTA2/OWYzYmFjZjA3OC4x/MDAweDEwMDB4MS5w/bmc" width="100" height="100">
 
-- The Diabolic Waffle - My Wish  
+\- The Diabolic Waffle - My Wish  
 
 <img src="https://i1.sndcdn.com/artworks-000331192485-1o84u6-t500x500.jpg" width="100" height="100">
 
-- Nameless Warning - You're Worth It  
-- One Republic - Kids (Seeb Remix)  
-- WRLD & Keepsake - Wishful Thinking  
+\- Nameless Warning - You're Worth It  
+\- One Republic - Kids (Seeb Remix)  
+\- WRLD & Keepsake - Wishful Thinking  
 
 <img src="https://imgs.search.brave.com/bl1RwzvGMgjg8h8jyw2EB_2FucrN6dNE-iKCM-ulGX4/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZ2VuaXVzLmNv/bS82MmE3MWI1MzU0/ZjdhZDFjNTQxZWEy/MzMyYjQ1MmY0Yy41/MTJ4NTEyeDEuanBn" width="100" height="100">
 
-- \+ A lot More
+\- The Walking Dog - Fantasy
+
+<img src="https://i1.sndcdn.com/artworks-vAx9HPvk5QPfl1yQ-v9BmoQ-t500x500.jpg" width="100" height="100">
+
+\- \+ A lot More
 
 <img src="https://media.tenor.com/jhPdg9w2_fEAAAAM/fox-cute.gif">
 
 \- Me When No Music
 
-**Thanks For Checking My Profile Out And Have A Wonderful Day:)**
+**Thanks For Checking My Profile Out And Have A Wonderful Day :)**
 
 **Happy Programming!!**
 
@@ -117,15 +121,28 @@ Not Perfect But I'm Learning
 > "Months of testing and bug fixes can save you hours of planning"  
 > \- [u/OkLetterhead7047](https://reddit.com/u/u/OkLetterhead7047)  
 
+> “Java is to Javascript what Car is to Carpet.”  
+> – Chris Heilmann
+
+> “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.”  
+> – Dan Salomon
+
 ---
 
 <img src="https://media.tenor.com/KjSzamIgCa8AAAAM/sleepy-fox.gif">
 
-\- ***Tired. Always.***
+\- ***Sleepy.***
 
 ---
 
-<img src="https://media.tenor.com/oGl2Y9siYNUAAAAC/linux-heart.gif">
+<img src="https://media.tenor.com/oGl2Y9siYNUAAAAC/linux-heart.gif" width="200" height="150">
+
+---
+
+<img src="https://maidenheadpodiatry.co.uk/wp-content/uploads/2015/01/sleeping-fox.jpg">
+
+> ***“The world is full of nice people. If you can’t find one, be one.”***   
+― ***Nishan Panwar***
 
 <!---
 J-The-Fox/J-The-Fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
