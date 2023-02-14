@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-The-Fox&title_color=ffa000&text_color=ffa000&icon_color=00ff32&bg_color=000000">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-The-Fox&title_color=ffa000&text_color=ffa000&icon_color=00ff32&bg_color=000000&layout=compact">
 </p>
 
 ## About Me!
