@@ -16,6 +16,12 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-The-Fox&title_color=ffa000&text_color=ffa000&icon_color=00ff32&bg_color=000000&layout=compact">
 </p>
 
+## Happy Pride Month!!
+
+![Happy Pride Month](https://media.tenor.com/OvtpwwGbCWUAAAAi/pride-gay.gif)
+
+:3
+
 ## About Me!
 Programming Captian And Electrical Captian Of FRC Team 5098! Go Stingrs!  
 Love To Program And Just Have Some Fun While I'm At It.
