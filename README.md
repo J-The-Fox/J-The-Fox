@@ -37,6 +37,8 @@ Email: j.t.mcneely06@gmail.com
 ## Announcments / Extra Info
 Nothing much going on currently
 
+- Profile Pic by Cha Sam :)
+
 <!---
 J-The-Fox/J-The-Fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
