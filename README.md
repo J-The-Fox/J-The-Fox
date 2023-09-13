@@ -23,7 +23,7 @@ Lazy I know, but it works
 
 ## About Me
 [![icons](https://skillicons.dev/icons?i=py,java,linux,raspberrypi,arduino,discord,blender,vscode,github)](https://skillicons.dev)  
-Programming captain and electrical co-captain for FRC team 5098, Sting-r! I mainly work on small projects from time to time on here. Mainly for FRC although I have some ones that I work on from time to time. Planning on working on a project whenever I get my hands on another Raspberry Pi 4 / Compute Module 4. Have some test code for it but can't test it yet. Not super active on here right now. But every so often I will update something
+Programming captain and electrical co-captain for FRC team 5098, Sting-r! I mainly work on small projects from time to time on here. Mainly for FRC although I have some ones that I work on from time to time. Planning on working on a project whenever I get my hands on another Raspberry Pi 4 / Compute Module 4. Have some test code for it but can't test it yet. Will be getting more active as the years progress with a few projects underway, especially FRC related ones
 
 ## Contact
 Discord: [j_the_fox](https://discord.com/users/586954526448156683) Most Acvite On Here  
@@ -32,12 +32,12 @@ Email: j.t.mcneely06@gmail.com
 ## Connections
 - Steam: [JTheFox](https://steamcommunity.com/profiles/76561199275602603/)
 - Lemmy: [JTheFox](https://lemmy.world/u/JTheFox)
-- Pretty much it (._.")
 
 ## Announcments / Extra Info
-Nothing much going on currently
+Possible opportunity to work on a project for the National Science Foundation!! Will learn more on Monday :D
 
-- Profile Pic by Cha Sam :)
+Profile Pic by Cha Sam :)
+Thank you so much!
 
 <!---
 J-The-Fox/J-The-Fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
