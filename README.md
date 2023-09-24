@@ -26,19 +26,23 @@ Lazy I know, but it works
 Programming captain and electrical co-captain for FRC team 5098, Sting-r! I mainly work on small projects from time to time on here. Mainly for FRC although I have some ones that I work on from time to time. Planning on working on a project whenever I get my hands on another Raspberry Pi 4 / Compute Module 4. Have some test code for it but can't test it yet. Will be getting more active as the years progress with a few projects underway, especially FRC related ones
 
 ## Contact
-Discord: [j_the_fox](https://discord.com/users/586954526448156683) Most Acvite On Here  
-Email: j.t.mcneely06@gmail.com
+- Email: j.t.mcneely06@gmail.com
 
 ## Connections
 - Steam: [JTheFox](https://steamcommunity.com/profiles/76561199275602603/)
 - Lemmy: [JTheFox](https://lemmy.world/u/JTheFox)
+- Discord: [j_the_fox](https://discord.com/users/586954526448156683) (Most active on here)
 
 ## Announcments / Extra Info
-Possible opportunity to work on a project for the National Science Foundation!! Will learn more on Monday :D
+Working on a project for the National Science Foundation. The goal is to help provide some automation for repetitive tasks for studying microbiology to help speed up research while also being relatively cheap so just about anyone can use it. Might update later on as the project progresses
 
-Profile Pic by Cha Sam :)
+Profile Pic by Cha Sam :)  
 Thank you so much!
 
+Have an outstadning day!
+<p>
+  <img src="https://cdn.discordapp.com/attachments/1146202340387459073/1155501175307763803/Subject.png" width="100" height="125" alt="image"/>
+</p>
 <!---
 J-The-Fox/J-The-Fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
