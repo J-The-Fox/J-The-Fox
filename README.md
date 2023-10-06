@@ -32,6 +32,7 @@ Programming captain and electrical co-captain for FRC team 5098, Sting-r! I main
 - Steam: [JTheFox](https://steamcommunity.com/profiles/76561199275602603/)
 - Lemmy: [JTheFox](https://lemmy.world/u/JTheFox)
 - Discord: [j_the_fox](https://discord.com/users/586954526448156683) (Most active on here)
+- Bluesky: [jthefox](https://bsky.app/profile/jthefox.bsky.social)
 
 ## Announcments / Extra Info
 Working on a project for the National Science Foundation. The goal is to help provide some automation for repetitive tasks for studying microbiology to help speed up research while also being relatively cheap so just about anyone can use it. Might update later on as the project progresses
@@ -39,7 +40,7 @@ Working on a project for the National Science Foundation. The goal is to help pr
 Profile Pic by Cha Sam :)  
 Thank you so much!
 
-Have an outstadning day!
+Have an outstanding day!
 <p>
   <img src="https://cdn.discordapp.com/attachments/1146202340387459073/1155501175307763803/Subject.png" width="100" height="125" alt="image"/>
 </p>
