@@ -22,8 +22,9 @@ Lazy I know, but it works
 --->
 
 ## About Me
-[![icons](https://skillicons.dev/icons?i=py,java,linux,raspberrypi,arduino,discord,blender,vscode,github)](https://skillicons.dev)  
-I'm currently studying Computer Science and Computer Engineering at Missouri Science and Technology. Am a First alumni for FRC team 5098 and I've been doing First for about 7 years now. Currently active in a bunch of clubs at Missouri Science and Technology such as MST Spectrum, Multirotor Design Team, Nuclear Design Team and Eco Miners
+[![icons](https://skillicons.dev/icons?i=py,java,arch,debian,raspberrypi,arduino,neovim,vscodium,git,fediverse)](https://skillicons.dev)  
+Just your average programmer who works on projects from time to time. I am a FIRST Alumni of FRC Team 5098 and have been apart of FIRST for around 6-7 years now at this point. Currently studying Computer Science and Computer Engineering at Missouri University of Science & Technology. I primarily use Java and Python for any projects. However, it is most often Python or Circuit Python (despite what my account says).
+The 2 main projects I am working on is the Student Unmanned Aerial Systems Competition (SUAS) with the Multirotor team here at Missouri S&T and the First Robotics Competition (FRC) that I was in!
 
 ### Certifications
 - CPR
@@ -31,6 +32,7 @@ I'm currently studying Computer Science and Computer Engineering at Missouri Sci
 - CompTIA A+
 - ***(All certifications below this line are in-progress or planning to be completed in the future)***
 - CompTIA Linux+
+- CompTIA Network+
 - Missouri Water Volunteer Quality Monitoring
 - Remote Pilot Certificate
 
@@ -44,7 +46,7 @@ I'm currently studying Computer Science and Computer Engineering at Missouri Sci
 - Mastodon coming at some point!
 
 ## Announcments / Extra Info
-Working on a project for the National Science Foundation. The goal is to help provide some automation for repetitive tasks for studying microbiology to help speed up research while also being relatively cheap so just about anyone can use it. Might update later on as the project progresses
+Homelabs are amazing, that is all
 
 PFP by me!
 
