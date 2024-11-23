@@ -22,7 +22,7 @@ Lazy I know, but it works
 --->
 
 ## About Me
-[![icons](https://skillicons.dev/icons?i=py,java,arch,debian,raspberrypi,arduino,neovim,vscodium,git,fediverse)](https://skillicons.dev)  
+![icons](https://skillicons.dev/icons?i=py,java,arch,debian,raspberrypi,arduino,neovim,vscodium,git,fediverse "Some things I do or use")  
 Just your average programmer who works on projects from time to time. I am a FIRST Alumni of FRC Team 5098 and have been apart of FIRST for around 6-7 years now at this point. Currently studying Computer Science and Computer Engineering at Missouri University of Science & Technology. I primarily use Java and Python for any projects. However, it is most often Python or Circuit Python (despite what my account says).
 The 2 main projects I am working on is the Student Unmanned Aerial Systems Competition (SUAS) with the Multirotor team here at Missouri S&T and the First Robotics Competition (FRC) that I was in!
 
@@ -46,11 +46,17 @@ The 2 main projects I am working on is the Student Unmanned Aerial Systems Compe
 - Mastodon coming at some point!
 
 ## Announcments / Extra Info
+
 Homelabs are amazing, that is all
 
 PFP by me!
 
 Have an amazing day!
+
+---
+
+Have a dancing Nivy!  
+![Nivy](https://cdn.discordapp.com/attachments/964442235720577024/1245078839625912362/IMG_3485.gif?ex=67421c87&is=6740cb07&hm=6f382002045005111ecc0bd1e82a5321bcfbd41608114f465cd6b24c732fc13f& "Dancing Nivy")
 <!---
 J-The-Fox/J-The-Fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
