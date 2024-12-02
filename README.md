@@ -40,10 +40,10 @@ The 2 main projects I am working on is the Student Unmanned Aerial Systems Compe
 - Email: j.t.mcneely06@gmail.com
 
 ## Connections
-- Lemmy: [JTheFox](https://lemmy.world/u/JTheFox)
 - Discord: [j_the_fox](https://discord.com/users/586954526448156683) (Most active on here)
 - Steam: [JTheFox](https://steamcommunity.com/profiles/76561199275602603/)
-- Mastodon coming at some point!
+- Lemmy: [JTheFox@lemmy.world](https://lemmy.world/u/JTheFox)
+- Mastodon: [JTheFox@mastodon.social](https://mastodon.social/web/@JTheFox)
 
 ## Announcments / Extra Info
 
