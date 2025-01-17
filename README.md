@@ -56,7 +56,7 @@ Have an amazing day!
 ---
 
 Have a dancing Nivy!  
-![Nivy](https://cdn.discordapp.com/attachments/964442235720577024/1245078839625912362/IMG_3485.gif?ex=674ea2c7&is=674d5147&hm=9ef53869ac9291327c8fae4c2a7d20becaeafdc66860aa63b69705e66f5678fb& "Dancing Nivy")
+![Nivy](/assets/Nivy-Dance.gif "Dancing Nivy")
 <!---
 J-The-Fox/J-The-Fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
