@@ -49,7 +49,7 @@ The 2 main projects I am working on is the Student Unmanned Aerial Systems Compe
 
 Homelabs are amazing, that is all
 
-PFP by me!
+PFP by [Kovukono!](https://pawb.social/u/Kovukono)
 
 Have an amazing day!
 
