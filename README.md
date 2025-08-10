@@ -23,18 +23,16 @@ Lazy I know, but it works
 
 ## About Me
 ![icons](https://skillicons.dev/icons?i=py,java,arch,debian,raspberrypi,arduino,neovim,vscodium,git,fediverse "Some things I do or use")  
-Just your average programmer who works on projects from time to time. I am a FIRST Alumni of FRC Team 5098 and have been apart of FIRST for around 6-7 years now at this point. Currently studying Computer Science and Computer Engineering at Missouri University of Science & Technology. I primarily use Java and Python for any projects. However, it is most often Python or Circuit Python (despite what my account says).
-The 2 main projects I am working on is the Student Unmanned Aerial Systems Competition (SUAS) with the Multirotor team here at Missouri S&T and the First Robotics Competition (FRC) that I was in!
+Just your average programmer who works on projects from time to time. Mostly school related things currently as ADHD is rough sometimes. I'll get to finishing and/or uploading some other stuff I have at some point. ...hopefully >.>  
+I'm studying Computer Science and Computer Engineering. Am a FIRST Alumni of FRC Team 5098!
+
+I use Arch btw :3
 
 ### Certifications
 - CPR
 - PC Pro
 - CompTIA A+
-- ***(All certifications below this line are in-progress or planning to be completed in the future)***
 - CompTIA Linux+
-- CompTIA Network+
-- Missouri Water Volunteer Quality Monitoring
-- Remote Pilot Certificate
 
 ## Contact
 - Email: j.t.mcneely06@gmail.com
@@ -43,7 +41,13 @@ The 2 main projects I am working on is the Student Unmanned Aerial Systems Compe
 - Discord: [j_the_fox](https://discord.com/users/586954526448156683) (Most active on here)
 - Steam: [JTheFox](https://steamcommunity.com/profiles/76561199275602603/)
 - Lemmy: [JTheFox@lemmy.world](https://lemmy.world/u/JTheFox)
-- Mastodon: [JTheFox@mastodon.social](https://mastodon.social/web/@JTheFox)
+- Mastodon: <a rel="me" href="https://mastodon.social/@JTheFox">JTheFox@mastodon.social</a>
+
+<!---
+That Mastodon link though >.>
+
+That's a me problem for later to figure out, it works for now and that's all that matters, Right? Right???
+--->
 
 ## Announcments / Extra Info
 
