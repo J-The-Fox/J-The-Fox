@@ -41,13 +41,7 @@ I use Arch btw :3
 - Discord: [j_the_fox](https://discord.com/users/586954526448156683) (Most active on here)
 - Steam: [JTheFox](https://steamcommunity.com/profiles/76561199275602603/)
 - Lemmy: [JTheFox@lemmy.world](https://lemmy.world/u/JTheFox)
-- Mastodon: <a rel="me" href="https://mastodon.social/@JTheFox">JTheFox@mastodon.social</a>
-
-<!---
-That Mastodon link though >.>
-
-That's a me problem for later to figure out, it works for now and that's all that matters, Right? Right???
---->
+- Mastodon: [JTheFox@mastodon.social](https://mastodon.social/@JTheFox)
 
 ## Announcments / Extra Info
 
