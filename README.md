@@ -42,12 +42,13 @@ I use Arch btw :3
 - Steam: [JTheFox](https://steamcommunity.com/profiles/76561199275602603/)
 - Lemmy: [JTheFox@lemmy.world](https://lemmy.world/u/JTheFox)
 - Mastodon: [JTheFox@mastodon.social](https://mastodon.social/@JTheFox)
+- Bluesky: [jthefox.bsky.social‬](https://bsky.app/profile/jthefox.bsky.social)
 
 ## Announcments / Extra Info
 
 Homelabs are amazing, that is all
 
-PFP by [Kovukono!](https://pawb.social/u/Kovukono)
+PFP by [Kovukono](https://pawb.social/u/Kovukono)!
 
 Have an amazing day!
 
