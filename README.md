@@ -48,7 +48,7 @@ I use Arch btw :3
 
 Homelabs are amazing, that is all
 
-PFP by [Kovukono](https://pawb.social/u/Kovukono)!
+PFP by [Manako](https://bsky.app/profile/manako.bsky.social)!
 
 Have an amazing day!
 
