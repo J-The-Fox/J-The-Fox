@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/last-commit/J-The-Fox/J-The-Fox?color=ffa000&label=Latest%20Commit&logo=Furry%20Network&logoColor=ffa000&style=flat-square" align="center"/>
 </p>
 
+<!--- Temporally hide these until I get the token, at least make my profile a tiny bit nicer ^^;
 <p align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-The-Fox&count_private=true&title_color=ffa000&text_color=ffa000&bg_color=000000"/>
 </p>
@@ -15,6 +16,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J-The-Fox&title_color=ffa000&text_color=ffa000&icon_color=00ff32&bg_color=000000&layout=compact">
 </p>
+--->
 
 <!--- 
 I know I should use html or markdown throughout the entire thing but I need the centering of hmtl but don't need it for everything. So I just use markdown for the rest. 
@@ -43,19 +45,14 @@ I use Arch btw :3
 - Lemmy: [JTheFox@lemmy.world](https://lemmy.world/u/JTheFox)
 - Mastodon: [JTheFox@mastodon.social](https://mastodon.social/@JTheFox)
 - Bluesky: [jthefox.bsky.social‬](https://bsky.app/profile/jthefox.bsky.social)
+- FurAffinity: [j-the-fox](https://www.furaffinity.net/user/j-the-fox)
 
 ## Announcments / Extra Info
 
 Homelabs are amazing, that is all
 
-PFP by [Manako](https://bsky.app/profile/manako.bsky.social)!
+PFP by [Lu -ᘛ⁐̤ᕐᐷ🏳️‍⚧️](https://bsky.app/profile/lu-001.bsky.social)!
 
-Have an amazing day!
-
----
-
-Have a dancing Nivy!  
-![Nivy](/assets/Nivy-Dance.gif "Dancing Nivy")
 <!---
 J-The-Fox/J-The-Fox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
